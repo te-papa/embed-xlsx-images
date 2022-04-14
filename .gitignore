@@ -1,0 +1,7 @@
+# IDE specific files
+.idea/
+*.iml
+
+# MacOS specific files
+.DS_store
+
