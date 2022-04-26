@@ -1,5 +1,7 @@
 # Python Embed XLSX Images 
 
+This example code is provided without license from the author.  Elements of the code utilise external modules which have their own licenses.
+
 ### Setup and Usage
 
 Place your images into the working directory `C:\python_scripts\image_encode\`
